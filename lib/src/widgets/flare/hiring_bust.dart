@@ -1,8 +1,8 @@
 import 'dart:math';
 
-import 'package:dev_rpg/src/widgets/flare/desaturated_actor.dart';
-import 'package:dev_rpg/src/widgets/flare/hiring_particles.dart';
-import 'package:dev_rpg/src/style.dart';
+import 'package:vums/src/widgets/flare/desaturated_actor.dart';
+import 'package:vums/src/widgets/flare/hiring_particles.dart';
+import 'package:vums/src/style.dart';
 import 'package:flare_flutter/flare.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';

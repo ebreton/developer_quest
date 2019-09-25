@@ -1,5 +1,5 @@
-import 'package:dev_rpg/src/shared_state/game/skill.dart';
-import 'package:dev_rpg/src/shared_state/game/task_prerequisite.dart';
+import 'package:vums/src/shared_state/game/skill.dart';
+import 'package:vums/src/shared_state/game/task_prerequisite.dart';
 import 'package:meta/meta.dart';
 
 enum MiniGame { none, chomp, sphinx }

@@ -1,4 +1,4 @@
-import 'package:dev_rpg/src/rpg_layout_builder.dart';
+import 'package:vums/src/rpg_layout_builder.dart';
 import 'package:flutter/material.dart';
 import 'game_screen_slim.dart';
 import 'game_screen_wide.dart';

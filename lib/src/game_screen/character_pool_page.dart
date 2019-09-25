@@ -1,10 +1,10 @@
-import 'package:dev_rpg/src/game_screen/character_modal.dart';
-import 'package:dev_rpg/src/game_screen/character_style.dart';
-import 'package:dev_rpg/src/rpg_layout_builder.dart';
-import 'package:dev_rpg/src/shared_state/game/character.dart';
-import 'package:dev_rpg/src/shared_state/game/character_pool.dart';
-import 'package:dev_rpg/src/style.dart';
-import 'package:dev_rpg/src/widgets/flare/hiring_bust.dart';
+import 'package:vums/src/game_screen/character_modal.dart';
+import 'package:vums/src/game_screen/character_style.dart';
+import 'package:vums/src/rpg_layout_builder.dart';
+import 'package:vums/src/shared_state/game/character.dart';
+import 'package:vums/src/shared_state/game/character_pool.dart';
+import 'package:vums/src/style.dart';
+import 'package:vums/src/widgets/flare/hiring_bust.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

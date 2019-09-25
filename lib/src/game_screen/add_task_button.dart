@@ -1,4 +1,4 @@
-import 'package:dev_rpg/src/style.dart';
+import 'package:vums/src/style.dart';
 import 'package:flutter/material.dart';
 
 // A stylized button meant to be used for adding tasks to the task pool.

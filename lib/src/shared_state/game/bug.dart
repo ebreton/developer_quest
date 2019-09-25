@@ -1,8 +1,8 @@
 import 'dart:math';
 
-import 'package:dev_rpg/src/shared_state/game/skill.dart';
-import 'package:dev_rpg/src/shared_state/game/task_pool.dart';
-import 'package:dev_rpg/src/shared_state/game/work_item.dart';
+import 'package:vums/src/shared_state/game/skill.dart';
+import 'package:vums/src/shared_state/game/task_pool.dart';
+import 'package:vums/src/shared_state/game/work_item.dart';
 
 /// Build weighted list of priorities. Put each BugPriority type in the list
 /// n times, where n is the value in bugFrequency.

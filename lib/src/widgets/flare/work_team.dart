@@ -1,7 +1,7 @@
-import 'package:dev_rpg/src/game_screen/character_style.dart';
-import 'package:dev_rpg/src/shared_state/game/character.dart';
-import 'package:dev_rpg/src/shared_state/game/skill.dart';
-import 'package:dev_rpg/src/widgets/flare/hiring_bust.dart';
+import 'package:vums/src/game_screen/character_style.dart';
+import 'package:vums/src/shared_state/game/character.dart';
+import 'package:vums/src/shared_state/game/skill.dart';
+import 'package:vums/src/widgets/flare/hiring_bust.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 

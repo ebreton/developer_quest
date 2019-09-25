@@ -1,5 +1,5 @@
-import 'package:dev_rpg/src/style.dart';
-import 'package:dev_rpg/src/widgets/buttons/wide_button.dart';
+import 'package:vums/src/style.dart';
+import 'package:vums/src/widgets/buttons/wide_button.dart';
 import 'package:flutter/material.dart';
 
 /// A styled button that animates its accent color.

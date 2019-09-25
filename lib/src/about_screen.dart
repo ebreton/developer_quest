@@ -1,6 +1,6 @@
-import 'package:dev_rpg/src/rpg_layout_builder.dart';
-import 'package:dev_rpg/src/style.dart';
-import 'package:dev_rpg/src/widgets/buttons/welcome_button.dart';
+import 'package:vums/src/rpg_layout_builder.dart';
+import 'package:vums/src/style.dart';
+import 'package:vums/src/widgets/buttons/welcome_button.dart';
 import 'package:flutter/material.dart';
 
 class AboutScreen extends StatelessWidget {

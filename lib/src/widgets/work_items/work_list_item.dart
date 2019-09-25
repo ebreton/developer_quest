@@ -1,12 +1,12 @@
 import 'dart:async';
 
-import 'package:dev_rpg/src/game_screen/team_picker_modal.dart';
-import 'package:dev_rpg/src/rpg_layout_builder.dart';
-import 'package:dev_rpg/src/shared_state/game/character.dart';
-import 'package:dev_rpg/src/shared_state/game/work_item.dart';
-import 'package:dev_rpg/src/style.dart';
-import 'package:dev_rpg/src/widgets/flare/work_team.dart';
-import 'package:dev_rpg/src/widgets/work_items/work_list_progress.dart';
+import 'package:vums/src/game_screen/team_picker_modal.dart';
+import 'package:vums/src/rpg_layout_builder.dart';
+import 'package:vums/src/shared_state/game/character.dart';
+import 'package:vums/src/shared_state/game/work_item.dart';
+import 'package:vums/src/style.dart';
+import 'package:vums/src/widgets/flare/work_team.dart';
+import 'package:vums/src/widgets/work_items/work_list_progress.dart';
 import 'package:flutter/material.dart';
 
 /// A callback that can be provided to the WorkListItem to provide specialized

@@ -1,8 +1,8 @@
 import 'dart:async';
 
-import 'package:dev_rpg/src/shared_state/game/work_item.dart';
-import 'package:dev_rpg/src/style.dart';
-import 'package:dev_rpg/src/widgets/prowess_progress.dart';
+import 'package:vums/src/shared_state/game/work_item.dart';
+import 'package:vums/src/style.dart';
+import 'package:vums/src/widgets/prowess_progress.dart';
 import 'package:flutter/material.dart';
 
 /// Progress bar with tap button to boost progress for work items.

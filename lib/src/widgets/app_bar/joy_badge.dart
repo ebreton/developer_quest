@@ -1,5 +1,5 @@
-import 'package:dev_rpg/src/shared_state/game/company.dart';
-import 'package:dev_rpg/src/widgets/app_bar/stat_badge.dart';
+import 'package:vums/src/shared_state/game/company.dart';
+import 'package:vums/src/widgets/app_bar/stat_badge.dart';
 
 /// Visually indicates the level of joy via a Flare animation with distinct
 /// sad, happy, neutral states and a call to attention animation whenever

@@ -1,4 +1,4 @@
-import 'package:dev_rpg/src/style_sphinx/question_arguments.dart';
+import 'package:vums/src/style_sphinx/question_arguments.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 /// This test suite demonstrates how you can test business logic independent of

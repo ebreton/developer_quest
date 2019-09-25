@@ -1,4 +1,4 @@
-import 'package:dev_rpg/src/shared_state/game/skill.dart';
+import 'package:vums/src/shared_state/game/skill.dart';
 import 'package:flutter/material.dart';
 
 const Color contentColor = Color.fromRGBO(38, 38, 47, 1);

@@ -1,12 +1,12 @@
-import 'package:dev_rpg/src/rpg_layout_builder.dart';
-import 'package:dev_rpg/src/shared_state/game/bug.dart';
-import 'package:dev_rpg/src/shared_state/game/task.dart';
-import 'package:dev_rpg/src/shared_state/game/task_pool.dart';
-import 'package:dev_rpg/src/shared_state/game/work_item.dart';
-import 'package:dev_rpg/src/widgets/work_items/bug_list_item.dart';
-import 'package:dev_rpg/src/widgets/work_items/task_list_item.dart';
-import 'package:dev_rpg/src/widgets/work_items/tasks_button_header.dart';
-import 'package:dev_rpg/src/widgets/work_items/tasks_section_header.dart';
+import 'package:vums/src/rpg_layout_builder.dart';
+import 'package:vums/src/shared_state/game/bug.dart';
+import 'package:vums/src/shared_state/game/task.dart';
+import 'package:vums/src/shared_state/game/task_pool.dart';
+import 'package:vums/src/shared_state/game/work_item.dart';
+import 'package:vums/src/widgets/work_items/bug_list_item.dart';
+import 'package:vums/src/widgets/work_items/task_list_item.dart';
+import 'package:vums/src/widgets/work_items/tasks_button_header.dart';
+import 'package:vums/src/widgets/work_items/tasks_section_header.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

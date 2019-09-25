@@ -1,7 +1,7 @@
-import 'package:dev_rpg/src/shared_state/game/bug.dart';
-import 'package:dev_rpg/src/shared_state/game/skill.dart';
-import 'package:dev_rpg/src/style.dart';
-import 'package:dev_rpg/src/widgets/work_items/skill_dot.dart';
+import 'package:vums/src/shared_state/game/bug.dart';
+import 'package:vums/src/shared_state/game/skill.dart';
+import 'package:vums/src/style.dart';
+import 'package:vums/src/widgets/work_items/skill_dot.dart';
 import 'package:flutter/material.dart';
 
 /// Indicator for bug list items. Shows skills necessary to fix the bug.

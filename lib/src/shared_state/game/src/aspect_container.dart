@@ -1,5 +1,5 @@
-import 'package:dev_rpg/src/shared_state/game/src/aspect.dart';
-import 'package:dev_rpg/src/shared_state/game/src/child_aspect.dart';
+import 'package:vums/src/shared_state/game/src/aspect.dart';
+import 'package:vums/src/shared_state/game/src/child_aspect.dart';
 
 /// A general class for [Aspect]s that contain other [Aspect]s
 abstract class AspectContainer<T extends Aspect> extends Aspect {

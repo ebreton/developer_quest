@@ -1,12 +1,12 @@
-import 'package:dev_rpg/src/game_screen/add_task_button.dart';
-import 'package:dev_rpg/src/game_screen/bug_picker_modal.dart';
-import 'package:dev_rpg/src/game_screen/project_picker_modal.dart';
-import 'package:dev_rpg/src/game_screen/team_picker_modal.dart';
-import 'package:dev_rpg/src/shared_state/game/bug.dart';
-import 'package:dev_rpg/src/shared_state/game/character.dart';
-import 'package:dev_rpg/src/shared_state/game/task_blueprint.dart';
-import 'package:dev_rpg/src/shared_state/game/task_pool.dart';
-import 'package:dev_rpg/src/shared_state/game/work_item.dart';
+import 'package:vums/src/game_screen/add_task_button.dart';
+import 'package:vums/src/game_screen/bug_picker_modal.dart';
+import 'package:vums/src/game_screen/project_picker_modal.dart';
+import 'package:vums/src/game_screen/team_picker_modal.dart';
+import 'package:vums/src/shared_state/game/bug.dart';
+import 'package:vums/src/shared_state/game/character.dart';
+import 'package:vums/src/shared_state/game/task_blueprint.dart';
+import 'package:vums/src/shared_state/game/task_pool.dart';
+import 'package:vums/src/shared_state/game/work_item.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

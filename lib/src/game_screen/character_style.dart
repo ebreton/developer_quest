@@ -1,7 +1,7 @@
 import 'dart:math';
 import 'dart:ui';
 
-import 'package:dev_rpg/src/shared_state/game/character.dart';
+import 'package:vums/src/shared_state/game/character.dart';
 
 /// UI style properties for [Character]s. [Character] to [CharacterStyle]
 /// mapping is done via [Character.id] values.

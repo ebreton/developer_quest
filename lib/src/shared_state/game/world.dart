@@ -1,10 +1,10 @@
 import 'dart:async';
 
-import 'package:dev_rpg/src/shared_state/game/character_pool.dart';
-import 'package:dev_rpg/src/shared_state/game/company.dart';
-import 'package:dev_rpg/src/shared_state/game/src/aspect_container.dart';
-import 'package:dev_rpg/src/shared_state/game/task.dart';
-import 'package:dev_rpg/src/shared_state/game/task_pool.dart';
+import 'package:vums/src/shared_state/game/character_pool.dart';
+import 'package:vums/src/shared_state/game/company.dart';
+import 'package:vums/src/shared_state/game/src/aspect_container.dart';
+import 'package:vums/src/shared_state/game/task.dart';
+import 'package:vums/src/shared_state/game/task_pool.dart';
 
 /// The state of the game world.
 ///

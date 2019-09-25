@@ -1,4 +1,4 @@
-import 'package:dev_rpg/src/shared_state/game/world.dart';
+import 'package:vums/src/shared_state/game/world.dart';
 import 'package:flare_dart/math/mat2d.dart';
 import 'package:flare_flutter/flare.dart';
 import 'package:flare_flutter/flare_actor.dart';

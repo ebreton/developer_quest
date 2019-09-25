@@ -3,7 +3,7 @@ library chompy;
 import 'dart:math';
 import 'dart:ui' as ui;
 
-import 'package:dev_rpg/src/code_chomper/code_chomper.dart';
+import 'package:vums/src/code_chomper/code_chomper.dart';
 import 'package:flare_dart/math/aabb.dart';
 import 'package:flare_dart/math/mat2d.dart';
 import 'package:flare_flutter/flare.dart';

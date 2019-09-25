@@ -1,4 +1,4 @@
-package dev.flutter.devrpg
+package ch.breton.vums
 
 import android.os.Bundle
 

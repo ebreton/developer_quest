@@ -1,16 +1,16 @@
 import 'dart:async';
 
-import 'package:dev_rpg/src/about_screen.dart';
-import 'package:dev_rpg/src/code_chomper/code_chomper.dart';
-import 'package:dev_rpg/src/game_screen.dart';
-import 'package:dev_rpg/src/shared_state/game/world.dart';
-import 'package:dev_rpg/src/shared_state/user.dart';
-import 'package:dev_rpg/src/style_sphinx/axis_questions.dart';
-import 'package:dev_rpg/src/style_sphinx/flex_questions.dart';
-import 'package:dev_rpg/src/style_sphinx/kittens.dart';
-import 'package:dev_rpg/src/style_sphinx/sphinx_image.dart';
-import 'package:dev_rpg/src/style_sphinx/sphinx_screen.dart';
-import 'package:dev_rpg/src/welcome_screen.dart';
+import 'package:vums/src/about_screen.dart';
+import 'package:vums/src/code_chomper/code_chomper.dart';
+import 'package:vums/src/game_screen.dart';
+import 'package:vums/src/shared_state/game/world.dart';
+import 'package:vums/src/shared_state/user.dart';
+import 'package:vums/src/style_sphinx/axis_questions.dart';
+import 'package:vums/src/style_sphinx/flex_questions.dart';
+import 'package:vums/src/style_sphinx/kittens.dart';
+import 'package:vums/src/style_sphinx/sphinx_image.dart';
+import 'package:vums/src/style_sphinx/sphinx_screen.dart';
+import 'package:vums/src/welcome_screen.dart';
 import 'package:flare_flutter/flare_cache.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';

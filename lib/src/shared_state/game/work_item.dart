@@ -1,9 +1,9 @@
 import 'dart:math';
 
-import 'package:dev_rpg/src/shared_state/game/character.dart';
-import 'package:dev_rpg/src/shared_state/game/skill.dart';
-import 'package:dev_rpg/src/shared_state/game/src/aspect.dart';
-import 'package:dev_rpg/src/shared_state/game/src/child_aspect.dart';
+import 'package:vums/src/shared_state/game/character.dart';
+import 'package:vums/src/shared_state/game/skill.dart';
+import 'package:vums/src/shared_state/game/src/aspect.dart';
+import 'package:vums/src/shared_state/game/src/child_aspect.dart';
 
 /// An item that a set of [Character]s with specific [Skill]s can work on.
 abstract class WorkItem extends Aspect with ChildAspect {

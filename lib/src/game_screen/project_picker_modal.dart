@@ -1,10 +1,10 @@
-import 'package:dev_rpg/src/shared_state/game/task_blueprint.dart';
-import 'package:dev_rpg/src/shared_state/game/task_pool.dart';
-import 'package:dev_rpg/src/shared_state/game/task_tree/task_tree.dart';
-import 'package:dev_rpg/src/shared_state/game/task_tree/tree_hierarchy.dart';
-import 'package:dev_rpg/src/style.dart';
-import 'package:dev_rpg/src/widgets/task_picker/task_picker_header.dart';
-import 'package:dev_rpg/src/widgets/task_picker/task_picker_item.dart';
+import 'package:vums/src/shared_state/game/task_blueprint.dart';
+import 'package:vums/src/shared_state/game/task_pool.dart';
+import 'package:vums/src/shared_state/game/task_tree/task_tree.dart';
+import 'package:vums/src/shared_state/game/task_tree/tree_hierarchy.dart';
+import 'package:vums/src/style.dart';
+import 'package:vums/src/widgets/task_picker/task_picker_header.dart';
+import 'package:vums/src/widgets/task_picker/task_picker_item.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

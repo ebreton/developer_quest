@@ -1,9 +1,9 @@
 library task_tree;
 
-import 'package:dev_rpg/src/shared_state/game/skill.dart';
-import 'package:dev_rpg/src/shared_state/game/task_blueprint.dart';
-import 'package:dev_rpg/src/shared_state/game/task_prerequisite.dart';
-import 'package:dev_rpg/src/shared_state/game/task_tree/tree_hierarchy.dart';
+import 'package:vums/src/shared_state/game/skill.dart';
+import 'package:vums/src/shared_state/game/task_blueprint.dart';
+import 'package:vums/src/shared_state/game/task_prerequisite.dart';
+import 'package:vums/src/shared_state/game/task_tree/tree_hierarchy.dart';
 
 part 'animations.dart';
 part 'backend_infrastructure.dart';

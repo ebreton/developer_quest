@@ -1,9 +1,9 @@
-import 'package:dev_rpg/src/shared_state/game/company.dart';
-import 'package:dev_rpg/src/shared_state/game/skill.dart';
-import 'package:dev_rpg/src/shared_state/game/src/aspect.dart';
-import 'package:dev_rpg/src/shared_state/game/src/child_aspect.dart';
-import 'package:dev_rpg/src/shared_state/game/task_pool.dart';
-import 'package:dev_rpg/src/shared_state/game/world.dart';
+import 'package:vums/src/shared_state/game/company.dart';
+import 'package:vums/src/shared_state/game/skill.dart';
+import 'package:vums/src/shared_state/game/src/aspect.dart';
+import 'package:vums/src/shared_state/game/src/child_aspect.dart';
+import 'package:vums/src/shared_state/game/task_pool.dart';
+import 'package:vums/src/shared_state/game/world.dart';
 
 /// A single task for the player and her team to complete.
 ///

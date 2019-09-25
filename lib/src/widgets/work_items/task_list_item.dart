@@ -1,12 +1,12 @@
-import 'package:dev_rpg/src/code_chomper/code_chomper.dart';
-import 'package:dev_rpg/src/shared_state/game/task.dart';
-import 'package:dev_rpg/src/shared_state/game/task_blueprint.dart';
-import 'package:dev_rpg/src/shared_state/game/work_item.dart';
-import 'package:dev_rpg/src/shared_state/game/world.dart';
-import 'package:dev_rpg/src/style.dart';
-import 'package:dev_rpg/src/style_sphinx/sphinx_screen.dart';
-import 'package:dev_rpg/src/widgets/work_items/task_header.dart';
-import 'package:dev_rpg/src/widgets/work_items/work_list_item.dart';
+import 'package:vums/src/code_chomper/code_chomper.dart';
+import 'package:vums/src/shared_state/game/task.dart';
+import 'package:vums/src/shared_state/game/task_blueprint.dart';
+import 'package:vums/src/shared_state/game/work_item.dart';
+import 'package:vums/src/shared_state/game/world.dart';
+import 'package:vums/src/style.dart';
+import 'package:vums/src/style_sphinx/sphinx_screen.dart';
+import 'package:vums/src/widgets/work_items/task_header.dart';
+import 'package:vums/src/widgets/work_items/work_list_item.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

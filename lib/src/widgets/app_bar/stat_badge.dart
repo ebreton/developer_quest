@@ -1,5 +1,5 @@
-import 'package:dev_rpg/src/shared_state/game/company.dart';
-import 'package:dev_rpg/src/style.dart';
+import 'package:vums/src/shared_state/game/company.dart';
+import 'package:vums/src/style.dart';
 import 'package:flare_flutter/flare_actor.dart';
 import 'package:flare_flutter/flare_controls.dart';
 import 'package:flutter/foundation.dart';

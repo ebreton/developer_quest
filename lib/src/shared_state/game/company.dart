@@ -1,7 +1,7 @@
 import 'dart:math';
 
-import 'package:dev_rpg/src/shared_state/game/src/aspect.dart';
-import 'package:dev_rpg/src/shared_state/game/src/aspect_container.dart';
+import 'package:vums/src/shared_state/game/src/aspect.dart';
+import 'package:vums/src/shared_state/game/src/aspect_container.dart';
 import 'package:flutter/foundation.dart';
 import 'package:intl/intl.dart';
 

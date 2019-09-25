@@ -1,8 +1,8 @@
 import 'package:auto_size_text/auto_size_text.dart';
-import 'package:dev_rpg/src/style_sphinx/breathing_animations.dart';
-import 'package:dev_rpg/src/style_sphinx/kittens.dart';
-import 'package:dev_rpg/src/style_sphinx/question_scaffold.dart';
-import 'package:dev_rpg/src/style_sphinx/success_route.dart';
+import 'package:vums/src/style_sphinx/breathing_animations.dart';
+import 'package:vums/src/style_sphinx/kittens.dart';
+import 'package:vums/src/style_sphinx/question_scaffold.dart';
+import 'package:vums/src/style_sphinx/success_route.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 

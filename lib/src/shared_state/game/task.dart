@@ -1,7 +1,7 @@
-import 'package:dev_rpg/src/shared_state/game/task_blueprint.dart';
-import 'package:dev_rpg/src/shared_state/game/task_pool.dart';
-import 'package:dev_rpg/src/shared_state/game/work_item.dart';
-import 'package:dev_rpg/src/shared_state/game/world.dart';
+import 'package:vums/src/shared_state/game/task_blueprint.dart';
+import 'package:vums/src/shared_state/game/task_pool.dart';
+import 'package:vums/src/shared_state/game/work_item.dart';
+import 'package:vums/src/shared_state/game/world.dart';
 
 enum TaskState { working, completed, rewarded }
 

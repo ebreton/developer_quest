@@ -1,6 +1,6 @@
-import 'package:dev_rpg/src/shared_state/game/skill.dart';
-import 'package:dev_rpg/src/style.dart';
-import 'package:dev_rpg/src/widgets/flare/skill_icon.dart';
+import 'package:vums/src/shared_state/game/skill.dart';
+import 'package:vums/src/style.dart';
+import 'package:vums/src/widgets/flare/skill_icon.dart';
 import 'package:flutter/material.dart';
 
 Map<Skill, String> skillDisplayName = {

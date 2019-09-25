@@ -1,9 +1,9 @@
 import 'dart:math';
 
-import 'package:dev_rpg/main.dart' as app;
-import 'package:dev_rpg/src/shared_state/game/bug.dart';
-import 'package:dev_rpg/src/shared_state/game/task_pool.dart';
-import 'package:dev_rpg/src/shared_state/game/world.dart';
+import 'package:vums/main.dart' as app;
+import 'package:vums/src/shared_state/game/bug.dart';
+import 'package:vums/src/shared_state/game/task_pool.dart';
+import 'package:vums/src/shared_state/game/world.dart';
 import 'package:flutter_driver/driver_extension.dart';
 
 void main() {

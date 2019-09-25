@@ -1,4 +1,4 @@
-import 'package:dev_rpg/src/shared_state/game/task_blueprint.dart';
+import 'package:vums/src/shared_state/game/task_blueprint.dart';
 
 /// A prerequisite that is always satisfied.
 const Prerequisite none = _None();

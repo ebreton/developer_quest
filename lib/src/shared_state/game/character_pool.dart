@@ -1,8 +1,8 @@
-import 'package:dev_rpg/src/shared_state/game/character.dart';
-import 'package:dev_rpg/src/shared_state/game/skill.dart';
-import 'package:dev_rpg/src/shared_state/game/src/aspect_container.dart';
-import 'package:dev_rpg/src/shared_state/game/src/child_aspect.dart';
-import 'package:dev_rpg/src/shared_state/game/world.dart';
+import 'package:vums/src/shared_state/game/character.dart';
+import 'package:vums/src/shared_state/game/skill.dart';
+import 'package:vums/src/shared_state/game/src/aspect_container.dart';
+import 'package:vums/src/shared_state/game/src/child_aspect.dart';
+import 'package:vums/src/shared_state/game/world.dart';
 
 /// A list of [Character]s.
 class CharacterPool extends AspectContainer<Character> with ChildAspect {

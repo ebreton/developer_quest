@@ -1,4 +1,4 @@
-import 'package:dev_rpg/src/style.dart';
+import 'package:vums/src/style.dart';
 import 'package:flutter/material.dart';
 
 /// This is a simple text header for the tasks list.
