@@ -37,6 +37,13 @@ build/
 **/android/local.properties
 **/android/**/GeneratedPluginRegistrant.java
 
+**/android/.project
+**/android/.settings/org.eclipse.buildship.core.prefs
+**/android/app/.classpath
+**/android/app/.project
+**/android/app/.settings/org.eclipse.buildship.core.prefs
+
+
 # iOS/XCode related
 **/ios/**/*.mode1v3
 **/ios/**/*.mode2v3
@@ -62,6 +69,8 @@ build/
 **/ios/Flutter/flutter_assets/
 **/ios/ServiceDefinitions.json
 **/ios/Runner/GeneratedPluginRegistrant.*
+
+**/ios/Flutter/flutter_export_environment.sh
 
 # Exceptions to above rules.
 !**/ios/**/default.mode1v3
